@@ -20,3 +20,11 @@ o	Randomly selects a word and uses the Word constructor to store it
 o	Prompts the user for each guess and keeps track of the user's remaining guesses
 2.	Letter.js does not require any other files.
 3.	Word.js only requires Letter.js.
+
+# screenshot of the javascript constructor Hangman game
+
+<img width="897" alt="Screen Shot 2019-07-30 at 6 38 26 PM" src="https://user-images.githubusercontent.com/47234767/62175309-779f2f80-b2fa-11e9-90e0-a561ee4a20ba.png">
+
+<img width="531" alt="Screen Shot 2019-07-30 at 6 38 57 PM" src="https://user-images.githubusercontent.com/47234767/62175317-84bc1e80-b2fa-11e9-934e-23b1b377603f.png">
+
+<img width="531" alt="Screen Shot 2019-07-30 at 6 39 23 PM" src="https://user-images.githubusercontent.com/47234767/62175319-8ab1ff80-b2fa-11e9-91a7-61a6a9f29889.png">
